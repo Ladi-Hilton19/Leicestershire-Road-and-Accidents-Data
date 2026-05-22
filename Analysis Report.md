@@ -198,7 +198,7 @@ https://github.com/Ladi-Hilton19/Projects/blob/main/Python%20Analysis%20of%20UK%
 
 This analysis provides insight into road accident trends and casualty patterns across Leicestershire from 2010 to 2020. While there is a visible decline in accidents and casualties, key contributing factors such as **day of week, road type, weather**, and **vehicle type** remain consistent influencers. Understanding these patterns helps inform **policy, planning, and road safety interventions**.
 
-For detailed code implementations and visualizations, refer to the **Appendix** or accompanying **Jupyter Notebooks**.
+For detailed code implementations and visualizations, refer to the accompanying **Jupyter Notebooks**.
 
 
 **Data Source:** [UK Road Safety Data](https://data.gov.uk/dataset/road-accidents-safety-data)
